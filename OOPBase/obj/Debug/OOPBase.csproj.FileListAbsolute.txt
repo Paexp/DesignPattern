@@ -1,0 +1,10 @@
+D:\Codes\DesignPattern\OOPBase\bin\Debug\OOPBase.exe.config
+D:\Codes\DesignPattern\OOPBase\bin\Debug\OOPBase.exe
+D:\Codes\DesignPattern\OOPBase\bin\Debug\OOPBase.pdb
+D:\Codes\DesignPattern\OOPBase\obj\Debug\OOPBase.csprojAssemblyReference.cache
+D:\Codes\DesignPattern\OOPBase\obj\Debug\OOPBase.Form1.resources
+D:\Codes\DesignPattern\OOPBase\obj\Debug\OOPBase.Properties.Resources.resources
+D:\Codes\DesignPattern\OOPBase\obj\Debug\OOPBase.csproj.GenerateResource.cache
+D:\Codes\DesignPattern\OOPBase\obj\Debug\OOPBase.csproj.CoreCompileInputs.cache
+D:\Codes\DesignPattern\OOPBase\obj\Debug\OOPBase.exe
+D:\Codes\DesignPattern\OOPBase\obj\Debug\OOPBase.pdb
