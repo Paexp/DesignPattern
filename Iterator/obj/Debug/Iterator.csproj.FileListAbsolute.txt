@@ -1,0 +1,7 @@
+D:\Codes\DesignPattern\Iterator\bin\Debug\Iterator.exe.config
+D:\Codes\DesignPattern\Iterator\bin\Debug\Iterator.exe
+D:\Codes\DesignPattern\Iterator\bin\Debug\Iterator.pdb
+D:\Codes\DesignPattern\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+D:\Codes\DesignPattern\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+D:\Codes\DesignPattern\Iterator\obj\Debug\Iterator.exe
+D:\Codes\DesignPattern\Iterator\obj\Debug\Iterator.pdb

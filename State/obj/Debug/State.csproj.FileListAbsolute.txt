@@ -1,0 +1,7 @@
+D:\Codes\DesignPattern\State\bin\Debug\State.exe.config
+D:\Codes\DesignPattern\State\bin\Debug\State.exe
+D:\Codes\DesignPattern\State\bin\Debug\State.pdb
+D:\Codes\DesignPattern\State\obj\Debug\State.csprojAssemblyReference.cache
+D:\Codes\DesignPattern\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+D:\Codes\DesignPattern\State\obj\Debug\State.exe
+D:\Codes\DesignPattern\State\obj\Debug\State.pdb
