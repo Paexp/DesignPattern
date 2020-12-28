@@ -1,0 +1,7 @@
+D:\Codes\DesignPattern\Bridge\bin\Debug\Bridge.exe.config
+D:\Codes\DesignPattern\Bridge\bin\Debug\Bridge.exe
+D:\Codes\DesignPattern\Bridge\bin\Debug\Bridge.pdb
+D:\Codes\DesignPattern\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+D:\Codes\DesignPattern\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\Codes\DesignPattern\Bridge\obj\Debug\Bridge.exe
+D:\Codes\DesignPattern\Bridge\obj\Debug\Bridge.pdb

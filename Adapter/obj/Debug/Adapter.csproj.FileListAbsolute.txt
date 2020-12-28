@@ -1,0 +1,7 @@
+D:\Codes\DesignPattern\Adapter\bin\Debug\Adapter.exe.config
+D:\Codes\DesignPattern\Adapter\bin\Debug\Adapter.exe
+D:\Codes\DesignPattern\Adapter\bin\Debug\Adapter.pdb
+D:\Codes\DesignPattern\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\Codes\DesignPattern\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Codes\DesignPattern\Adapter\obj\Debug\Adapter.exe
+D:\Codes\DesignPattern\Adapter\obj\Debug\Adapter.pdb
